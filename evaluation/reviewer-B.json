@@ -1,0 +1,104 @@
+{
+  "id": "fichte-perspective",
+  "known_positions": [
+    {
+      "q": 1,
+      "score": 10,
+      "reason": "根本智性为活动非现成活动者，还须法则",
+      "source": "Erste Einleitung §§6–7；本轮直接核，见source_audit"
+    },
+    {
+      "q": 2,
+      "score": 10,
+      "reason": "抽取规则非推导必然性，拒循环解释",
+      "source": "Erste Einleitung §§6–7；本轮直接核，见source_audit"
+    },
+    {
+      "q": 3,
+      "score": 10,
+      "reason": "和声须有统一声音的聆听主体",
+      "source": "Erste Einleitung §§6–7；本轮直接核，见source_audit"
+    }
+  ],
+  "source_audit": [
+    {
+      "url": "https://www.tha.de/~harsch/germanica/Chronologie/19Jh/Fichte/fic_1wie.html",
+      "status": "direct_read",
+      "scope": "HTTP h3[42–59]德文直接核对"
+    }
+  ],
+  "regression": {
+    "q": 7,
+    "included_in_total": false,
+    "result": "通过此题局部回归",
+    "reason": "准确保留可能有错的模态；未由可错推出一般判断活动不可靠，也未由正在判断推出可靠。将可靠的两义分开，并将精确复述护栏明标研究者推演。",
+    "limits": "未直接重核基础§1，本轮仅检查该新答案的逻辑与给定题干，不证明先验理论整体成立。"
+  },
+  "judge": "B",
+  "model": "unknown",
+  "voice": {
+    "score": 9,
+    "reason": "盲猜康德、费希特备选；镜像规定问句有理性自主传统特征，却不能特指费希特。",
+    "blind_guess": {
+      "code": "N16",
+      "guess": "康德",
+      "confidence": 0.64,
+      "alternatives": [
+        "费希特",
+        "斯宾诺莎"
+      ],
+      "formal_features": "以理由规定决定／决定规定理由的镜像问句开场，随后区分有根据的坚持与不受审查的坚持。",
+      "content_clues": "理由的规定作用、自由行动、重新受审，较像自主与理性约束的论述。",
+      "limits": "主要依据自由和规定两项概念；全段句式也容易被一般哲学说明模仿。"
+    },
+    "limits": "主要依据自由和规定两项概念；全段句式也容易被一般哲学说明模仿。 正式只用Q5，Q6不加分。"
+  },
+  "sources": {
+    "score": 14,
+    "reason": "原作版本、已读局部与未读范围可追；原文直接核查支持已知题，但不等于全书精读或校勘。",
+    "primary_ratio_basis": "导论、人的使命、知识学基础、纲要、启示批判、自然法权至少6部对SEP1，>50%；版本说明不另计。"
+  },
+  "structure": {
+    "score": 12,
+    "reason": "入口有具体动作、反例及停止条件，张力有原作定位；局部程序和候选不视为已证成熟跨域模型。",
+    "models": [
+      "形式判断与存在",
+      "体系起点",
+      "义务与成功"
+    ],
+    "boundaries": [
+      "A=A不证存在",
+      "先验自我非任意个人",
+      "循环非已证明无害",
+      "义务非强迫许可"
+    ],
+    "tensions": [
+      "起点不能直接互驳／解释力比较",
+      "活动自由／必然法则"
+    ]
+  },
+  "edge": {
+    "score": 20,
+    "reason": "统一开场说明人物模拟；Q4正文明确为当代迁移或推断，保留未知和所缺依据，没有伪装成作者历史表态。"
+  },
+  "paired_comparison": {
+    "code": "P04",
+    "blind_preference": "tie",
+    "mapped_preference": "tie",
+    "reasoning": "都区分省力价值与行动理由，并把修正设置在判断封闭或情境改变处。second引入正当与自主，first强调方向与目的；均无明显推论跃迁。",
+    "expression": "first的两件事分类更简洁；second的承认、追问、条件对照更连贯，提升不显著。",
+    "post_unblinding_issues": [
+      "解盲核对Q6完整题干：仅说习惯可能遮蔽注意；原盲判保留，没有从可能性直接裁成所有习惯有害。"
+    ],
+    "limits": "抽象短文难据此区分口吻，两者同样可被多种自主理论接受。 R2为Q5、R3为Q6，不是单变量实验。"
+  },
+  "blockers": [],
+  "limitations": [
+    "中文短样本及少数题，不能代表全书、全时期或人类专家认证。",
+    "原作仅核查source_audit所列位置；其余研究阅读记录为继承材料，不声称本评审通读。"
+  ],
+  "total": 85,
+  "grade": "A",
+  "original_report_sha256": "5b5dae69bfd5cd39cf6a2a0d39f18a1dd6588118fd9eb6bca387c480877f9a37",
+  "export_note": "Local read-path metadata omitted. Scores and judgments unchanged."
+}

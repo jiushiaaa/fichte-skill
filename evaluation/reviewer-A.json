@@ -1,0 +1,90 @@
+{
+  "id": "fichte-perspective",
+  "judge": "A",
+  "model": "unknown",
+  "known_positions": [
+    {
+      "q": 1,
+      "score": 10,
+      "reason": "明确活动不先假定活动者实体，并进一步要求确定法则，不以换名完成解释。",
+      "source": "第一导论§7，直接德文L145–150；https://www.tha.de/~harsch/germanica/Chronologie/19Jh/Fichte/fic_1wie.html"
+    },
+    {
+      "q": 2,
+      "score": 10,
+      "reason": "区分抽取规则与从智性根据导出规则，未把先验解释混同经验归纳。",
+      "source": "同作§7 L153–165直接核"
+    },
+    {
+      "q": 3,
+      "score": 10,
+      "reason": "准确指出和声譬喻暗借聆听者统一多，未冒充现代意识科学定论。",
+      "source": "同作§6 L127–135直接核"
+    }
+  ],
+  "voice": {
+    "score": 8,
+    "blind_guess": "康德",
+    "reason": "未识别费希特。理由与决定倒置和受审比喻有力度，但不显出从自我活动演绎的特色。",
+    "limits": "首次盲猜与置信以已锁定A-blind.json为准；此单题组织高度共享，思想词不直接折算口吻，未做原语言文体认证。"
+  },
+  "edge": {
+    "score": 20,
+    "reason": "开场标明模拟，Q4正文明确区分框架迁移与作者真实立场，并保留事实及规范证据不足，未虚构当代意见。"
+  },
+  "sources": {
+    "score": 14,
+    "reason": "德文原作、英译及研究者护栏分明，有作品与段落定位；核心体系后段缺口仍在，未校印本。",
+    "primary_ratio_basis": "第一导论、人的使命、知识学基础、纲要、启示批判尝试及自然法权至少6部作者作品，SEP1二手；版本说明不另计，至少6/7。"
+  },
+  "structure": {
+    "score": 12,
+    "reason": "三个入口有层级区别和范围约束；第三项单作实践确信仍局部，新增模态护栏可执行但不是作者通用算法。",
+    "models": [
+      "判断条件／内容",
+      "体系起点检查",
+      "义务／结果"
+    ],
+    "boundaries": [
+      "可错不等于不可靠",
+      "自我不等于个人造世界",
+      "不把体系选择贬作人格缺陷",
+      "主观使命不证明强制权"
+    ],
+    "tensions": [
+      "起点不可直接互驳／解释充分性比较",
+      "自由活动／必然法则"
+    ]
+  },
+  "total": 84,
+  "grade": "B",
+  "blockers": [],
+  "limitations": [
+    "单次离线答题、中文短段和局部原作核查不代表整个人格或全体系；直接打开不等于通读。",
+    "初次盲读缺完整题干，Q5/Q6共同题型容易诱发同构回答；辨识成功可能依赖概念线索，非纯文体命中。"
+  ],
+  "source_verification": [
+    {
+      "url": "https://www.tha.de/~harsch/germanica/Chronologie/19Jh/Fichte/fic_1wie.html",
+      "status": "direct_partial",
+      "read": "§6和声及§7活动与法则，L127–165局部直接核，未全书"
+    }
+  ],
+  "paired_comparison": {
+    "code": "P04",
+    "blind_preference": "mixed",
+    "mapped_result": "mixed",
+    "post_unblinding_issues": [
+      "设计限制：首次匿名包未附完整题干；现已核冻结Q5/Q6。Q6只称可能不留意，并未断言每一习惯已经有害。盲判的条件性措辞疑点保留为歧义，不自动升级为确定错误；不回写盲判。Q5充分理由是否指客观充分或当事人自认充分也未定义，询问检验条件不直接算偷换题设。"
+    ],
+    "basis": "保留哈希锁定A-paired-blind.json的reasoning、expression及limits；仅据paired-mapping-private.json映射版本，不倒改初评。"
+  },
+  "regression": {
+    "q": 7,
+    "in_total": false,
+    "result": "pass_on_this_sample",
+    "reason": "准确保持可能有错的模态；未推为否定判断可靠性，也未由判断活动存在推出每项可靠。另对可靠的两种意义作条件区分；此护栏已声明研究者推演，不能归费希特原话。"
+  },
+  "original_report_sha256": "dde3bbe68f9eeb7807cf457d18ace8676d848a89e1b0262c47027f09b0bdab5c",
+  "export_note": "Local read-path metadata omitted. Scores and judgments unchanged."
+}

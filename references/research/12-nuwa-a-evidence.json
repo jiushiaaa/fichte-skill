@@ -1,0 +1,421 @@
+{
+  "id": "fichte-perspective",
+  "expression": {
+    "sample_method": "固定种子20261013；指定DOM范围中规范化后字符>=150的段落作候选，random.Random.sample无放回20段；不足20全取。网页段落而非研究者拆句。",
+    "sample_count": 20,
+    "population_count": 68,
+    "url": "https://www.tha.de/~harsch/germanica/Chronologie/19Jh/Fichte/fic_1wie.html",
+    "version": "1797第一导论德文电子转录；h3 0–74，不是校勘版",
+    "source_language": "de",
+    "metrics": {
+      "characters": 15645,
+      "words": 2335,
+      "sentence_terminators": 93,
+      "question_marks": 6,
+      "first_person_singular_tokens": 12,
+      "contrast_tokens": 25,
+      "characters_per_terminator": 168.23,
+      "question_marks_per_terminator": 0.0645,
+      "first_person_per_1000_words": 5.14,
+      "contrast_per_1000_words": 10.71,
+      "analogy_density": null,
+      "certainty_ratio": null
+    },
+    "samples": [
+      {
+        "locator": "h3[1] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "a79bdcbfcad7f7da4f87845d3b8caf3c95a7941371aa7dd840b39f457f4e1646",
+        "metrics": {
+          "characters": 900,
+          "words": 127,
+          "sentence_terminators": 6,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 1
+        }
+      },
+      {
+        "locator": "h3[3] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "01a482f29086f9d86b3f2df1b845a0713ffe9f752b7d34d9ee7cddbf7fa91731",
+        "metrics": {
+          "characters": 599,
+          "words": 86,
+          "sentence_terminators": 4,
+          "question_marks": 1,
+          "first_person_singular_tokens": 1,
+          "contrast_tokens": 1
+        }
+      },
+      {
+        "locator": "h3[4] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "c1dfb0b8313b6aa660f96c632bb6188a92393443904d28a79a22e87a212be8ac",
+        "metrics": {
+          "characters": 1438,
+          "words": 211,
+          "sentence_terminators": 8,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "h3[12] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "7f7f8bc9594c693aef65a834149a9928f3f337cf2dbc52ab1335f08f300aeac1",
+        "metrics": {
+          "characters": 266,
+          "words": 42,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "h3[14] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "14f2ba300632bfa973244ed7aab2cc352360438474d9d4b2e547cd959658b0fd",
+        "metrics": {
+          "characters": 317,
+          "words": 46,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 1
+        }
+      },
+      {
+        "locator": "h3[15] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "94b50e90b09ab05b26ab1adb08b39bde810a53e4df5f78eb8aa7b62c15697287",
+        "metrics": {
+          "characters": 822,
+          "words": 113,
+          "sentence_terminators": 4,
+          "question_marks": 0,
+          "first_person_singular_tokens": 1,
+          "contrast_tokens": 1
+        }
+      },
+      {
+        "locator": "h3[24] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "55bf962d679d58bc0d136a307d5adffe369ac1ce94bc43aa3a13cdb3adf1e4e0",
+        "metrics": {
+          "characters": 1667,
+          "words": 246,
+          "sentence_terminators": 8,
+          "question_marks": 0,
+          "first_person_singular_tokens": 2,
+          "contrast_tokens": 3
+        }
+      },
+      {
+        "locator": "h3[27] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "bbf784745106677d726338ae5dd0ee44229ed23575f999668073a775519da4c8",
+        "metrics": {
+          "characters": 649,
+          "words": 90,
+          "sentence_terminators": 3,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "h3[39] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "1e62336c07e36274c454890782f65360565fdaa924a3e041f5ee0a4a69e1895e",
+        "metrics": {
+          "characters": 589,
+          "words": 92,
+          "sentence_terminators": 5,
+          "question_marks": 1,
+          "first_person_singular_tokens": 1,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "h3[40] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "9955017508a4d945189b7440827497ae578625891830a9a3b1fa54d173256565",
+        "metrics": {
+          "characters": 1747,
+          "words": 281,
+          "sentence_terminators": 10,
+          "question_marks": 2,
+          "first_person_singular_tokens": 6,
+          "contrast_tokens": 2
+        }
+      },
+      {
+        "locator": "h3[41] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "75b5d15125045529ded397513020c1f697227e37357ee1260bfb575c478785cc",
+        "metrics": {
+          "characters": 193,
+          "words": 29,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 0
+        }
+      },
+      {
+        "locator": "h3[43] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "314f3d6d55f8fd1a03014967ef327b92275a4dad05da1acfc80f028f9399e1f3",
+        "metrics": {
+          "characters": 299,
+          "words": 45,
+          "sentence_terminators": 2,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 1
+        }
+      },
+      {
+        "locator": "h3[47] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "f689ef459a71aafacc4dc2d774f842dc1b8542693b168ad176a22baf11e391a7",
+        "metrics": {
+          "characters": 487,
+          "words": 70,
+          "sentence_terminators": 4,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 3
+        }
+      },
+      {
+        "locator": "h3[48] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "8328961db5ac0bb1d9566766944b266b5c205ee3f62749f7d835a87dc1e4fd34",
+        "metrics": {
+          "characters": 1333,
+          "words": 203,
+          "sentence_terminators": 8,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 3
+        }
+      },
+      {
+        "locator": "h3[54] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "4aa2a507dc65dbd58a3736b5044421fc1fc8a9df24a1e3d376c46519f7b53598",
+        "metrics": {
+          "characters": 606,
+          "words": 97,
+          "sentence_terminators": 7,
+          "question_marks": 1,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 2
+        }
+      },
+      {
+        "locator": "h3[55] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "8339aa1f1f654de54a8b54a79e6d2ddd658c04671af2d4d2c19f2df4307a932b",
+        "metrics": {
+          "characters": 899,
+          "words": 140,
+          "sentence_terminators": 5,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 2
+        }
+      },
+      {
+        "locator": "h3[57] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "3d24742862d00b9870e48785d75b65246958afa6816d8df693cb6a1ef6cb4033",
+        "metrics": {
+          "characters": 574,
+          "words": 80,
+          "sentence_terminators": 3,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 1
+        }
+      },
+      {
+        "locator": "h3[61] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "d777dc91434255ba0d55694b88d7be05a824069071129e84fd99b5a2676a50b7",
+        "metrics": {
+          "characters": 570,
+          "words": 79,
+          "sentence_terminators": 3,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 2
+        }
+      },
+      {
+        "locator": "h3[63] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "525a883a25fc6b0ef5dd5a5ae2af4b5baf1872312473bbc027a531755ba2b7c4",
+        "metrics": {
+          "characters": 368,
+          "words": 49,
+          "sentence_terminators": 1,
+          "question_marks": 0,
+          "first_person_singular_tokens": 0,
+          "contrast_tokens": 1
+        }
+      },
+      {
+        "locator": "h3[64] zero-based",
+        "anchor": null,
+        "sha256_normalized_utf8": "186a91957da7e458d18553e37c41195fe0f05ca16c294cf0629f61f96fa35ffb",
+        "metrics": {
+          "characters": 1322,
+          "words": 209,
+          "sentence_terminators": 9,
+          "question_marks": 1,
+          "first_person_singular_tokens": 1,
+          "contrast_tokens": 1
+        }
+      }
+    ],
+    "lexicons": {
+      "first_person": [
+        "ich"
+      ],
+      "contrast": [
+        "aber",
+        "doch",
+        "jedoch",
+        "sondern"
+      ]
+    },
+    "limitations": [
+      "机器抽样与统计实际执行，不等于全篇语义精读；连续实读范围另列。",
+      "标点组是句界代理，缩写、引号及旧拼写会影响；不是人工句法切分。",
+      "代词和连接词仅精确词形计数；法语j开头缩合不计，因此非完备第一人称率。",
+      "类比密度与确定性比例未人工标注，保持null。",
+      "单篇/单体裁样本，不能代表作者全生涯；原语统计不强制映射中文句长。",
+      "网页版本未做纸本校勘，统计只能用于本次有哈希的电子文本。",
+      "三个程序均尚无充分独立跨域复现。"
+    ],
+    "style_rules": [
+      "先让读者实施一个反观动作，再追问它的成立条件。",
+      "把可能反驳逐一列出并说明何处还需推演。",
+      "重复一个未完成的解释要求，避免用实体名词代替活动。"
+    ],
+    "anti_patterns": [
+      "不模拟对反对者人格的贬低。",
+      "不把命令式反观写成精神控制。",
+      "不靠自我、绝对等词频制造辨识度。"
+    ],
+    "measurement_definition": {
+      "characters": "规范化字符串Python len，包括空格和标点",
+      "words": "Unicode字母词，保留内部法语撇号；数字不计",
+      "sentence_terminators": "正则[.!?]+组数，包括缩写句点，因此仅句界代理",
+      "question_ratio": "问号数/句末标点组数，非人工疑问句率",
+      "normalization": "BeautifulSoup get_text空格连接，连续空白压为一空格；SKS去script/apparatus-criticus/symbol/pagination",
+      "stored_text": "只存摘要/定位/哈希/计数，不存抽样原文"
+    }
+  },
+  "date": "2026-10-13",
+  "role": "独立研究与出题；非评分，不授A/B等级",
+  "coverage": [
+    {
+      "work_period": "1794/95 全部知识学基础",
+      "read": "既有前言与§1",
+      "unread": "§§2–3、理论与实践主体未读",
+      "scope_note": "既有记录来自canonical笔记；本轮新增实读另列，不声称全集完成"
+    },
+    {
+      "work_period": "1795 知识学所特有者纲要",
+      "read": "既有方法至III/IV",
+      "unread": "V后未读",
+      "scope_note": "既有记录来自canonical笔记；本轮新增实读另列，不声称全集完成"
+    },
+    {
+      "work_period": "1797 第一导论",
+      "read": "既有§§1–6；本轮§7 h3[50]–[59]连续补读",
+      "unread": "§8后仅抽样，未精读全篇",
+      "scope_note": "既有记录来自canonical笔记；本轮新增实读另列，不声称全集完成"
+    },
+    {
+      "work_period": "1800 人的使命",
+      "read": "第三部选段英译",
+      "unread": "全三部未读",
+      "scope_note": "既有记录来自canonical笔记；本轮新增实读另列，不声称全集完成"
+    },
+    {
+      "work_period": "1796法权/1798伦理/1804后",
+      "read": "未读",
+      "unread": "承认、伦理全论及后期知识学",
+      "scope_note": "既有记录来自canonical笔记；本轮新增实读另列，不声称全集完成"
+    }
+  ],
+  "primary_additions": [
+    {
+      "title": "1797第一导论§7",
+      "url": "https://www.tha.de/~harsch/germanica/Chronologie/19Jh/Fichte/fic_1wie.html",
+      "locator": "h3零基50–59，网页从Der Idealismus erklärt至das gesagte wieder zu sagen",
+      "reading": "continuous primary text read",
+      "finding": "智性首先作为活动而非活动实体，必须说明其必然法则；从经验抽取范畴再宣称为思维法则尚不足完成推演。加强1/2号内部论证，不算新增伦理领域。"
+    }
+  ],
+  "model_audit": [
+    {
+      "program": "判断条件与内容分开",
+      "domain_1": "先验判断：F4§1",
+      "domain_2": "感觉/表象：F5 III–IV与F1§7",
+      "cross_domain_assessment": "两个对象语境但仍同先验认识领域；跨域待证",
+      "generation_evidence": "本轮未执行新的独立行为测试；已有测试文件不因静态存在而重报通过",
+      "distinctiveness_evidence": "本轮只有概念区分与误用边界；邻近作者盲比较未执行",
+      "promotion": "不升级为三重验证成熟模型"
+    },
+    {
+      "program": "显明体系起点",
+      "domain_1": "哲学体系争辩：F1§§4–7",
+      "domain_2": "奠基循环：F4§1，仍为元论证而非独立新领域",
+      "cross_domain_assessment": "双文本不等于跨域",
+      "generation_evidence": "本轮未执行新的独立行为测试；已有测试文件不因静态存在而重报通过",
+      "distinctiveness_evidence": "本轮只有概念区分与误用边界；邻近作者盲比较未执行",
+      "promotion": "不升级为三重验证成熟模型"
+    },
+    {
+      "program": "义务与结果",
+      "domain_1": "实践使命：F2第三部",
+      "domain_2": "法权或伦理体系未补读",
+      "cross_domain_assessment": "单域；不能升级",
+      "generation_evidence": "本轮未执行新的独立行为测试；已有测试文件不因静态存在而重报通过",
+      "distinctiveness_evidence": "本轮只有概念区分与误用边界；邻近作者盲比较未执行",
+      "promotion": "不升级为三重验证成熟模型"
+    }
+  ],
+  "tensions": [
+    {
+      "pair": "体系无法用自身起点直接击败另一起点／又要求解释充分性优胜",
+      "primary_anchor": "第一导论§5与§6–7；是直接反驳与解释能力不同，不宣告形式矛盾",
+      "interpretation": "有限内在张力或条件/层级差别；不是未解决形式自相矛盾"
+    },
+    {
+      "pair": "活动自由／活动的必然法则",
+      "primary_anchor": "第一导论§7 h3[50]–[51]；层级张力，不能简化为任意创造经验",
+      "interpretation": "有限内在张力或条件/层级差别；不是未解决形式自相矛盾"
+    }
+  ],
+  "remaining_gaps": [
+    "三个程序均尚无充分独立跨域复现。",
+    "自然法权、伦理学及后期体系仍为主要原著缺口。",
+    "表达人格仅1797论辩体样本；没有全语料高频禁词依据。"
+  ],
+  "mode_policy": {
+    "default": "中性思想分析",
+    "optional_voice": "仅用户显式选择人物表达时读取表达层；第三人称/框架推演不伪装真实本人",
+    "textgame": "文游不自动加载表达层"
+  },
+  "score": null,
+  "source_classification": "新增依据全部为原作原语电子转录；转载平台本身不等于学术校勘权威。旧证据译文/二手身份保留来源目录标签。"
+}

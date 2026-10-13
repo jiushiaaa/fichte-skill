@@ -1,0 +1,445 @@
+{
+  "id": "fichte-perspective",
+  "expression": {
+    "url": "https://www.tha.de/homes/harsch/germanica/Chronologie/19Jh/Fichte/fic_ve03.html",
+    "sample_count": 20,
+    "population_count": 34,
+    "sample_method": "1792启示批判§3正文h3[0:34]，固定种子20261013无放回20个完整网页段；排除h3[34:]脚注。",
+    "samples": [
+      {
+        "locator": "h3[0]",
+        "sha256_normalized_utf8": "e9fb9937efe2d478834bdb731c82d2cdbf057d7696c8783996c77c63eeb4d250",
+        "metrics": {
+          "characters": 1751,
+          "words": 252,
+          "punctuation_groups": 8,
+          "question_marks": 0,
+          "semicolons": 4,
+          "colons": 1,
+          "dashes": 1,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "h3[1]",
+        "sha256_normalized_utf8": "12785891b7e57d45e01ef01929735a28c1417384585b282c190c95f32ad48896",
+        "metrics": {
+          "characters": 184,
+          "words": 28,
+          "punctuation_groups": 2,
+          "question_marks": 0,
+          "semicolons": 0,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "h3[2]",
+        "sha256_normalized_utf8": "fc33b96e5d94efad569545e5a6a8494c86bd92eac29cf795a1cbf3317bf6d35d",
+        "metrics": {
+          "characters": 267,
+          "words": 40,
+          "punctuation_groups": 1,
+          "question_marks": 0,
+          "semicolons": 0,
+          "colons": 1,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "h3[3]",
+        "sha256_normalized_utf8": "fbd1a4a938bdadf2d579dd69f11a159e6067dee1e8ef661abe05221716a7428d",
+        "metrics": {
+          "characters": 794,
+          "words": 119,
+          "punctuation_groups": 3,
+          "question_marks": 0,
+          "semicolons": 1,
+          "colons": 1,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "h3[7]",
+        "sha256_normalized_utf8": "04122e33edbe386216a9bbae7daf48507776bedad5f44fdcac299a6494ab7ded",
+        "metrics": {
+          "characters": 318,
+          "words": 44,
+          "punctuation_groups": 2,
+          "question_marks": 0,
+          "semicolons": 1,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "h3[9]",
+        "sha256_normalized_utf8": "c64d38b07b2d957ef13b9d048594b54cf39d61877bc66e958ab4e34511e00eb7",
+        "metrics": {
+          "characters": 927,
+          "words": 135,
+          "punctuation_groups": 3,
+          "question_marks": 0,
+          "semicolons": 0,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "h3[12]",
+        "sha256_normalized_utf8": "49f0c46924f56dca504c33b105ced161e59d8495ad13d4927aefe127fbdbc9e2",
+        "metrics": {
+          "characters": 571,
+          "words": 86,
+          "punctuation_groups": 1,
+          "question_marks": 0,
+          "semicolons": 0,
+          "colons": 1,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "h3[13]",
+        "sha256_normalized_utf8": "588a319caff90614c9b0c1aadde8b0acff61d8042b2371ea527a2cbee85eaeba",
+        "metrics": {
+          "characters": 2121,
+          "words": 291,
+          "punctuation_groups": 10,
+          "question_marks": 0,
+          "semicolons": 3,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "h3[15]",
+        "sha256_normalized_utf8": "2a86a2b4a55207e29f2998597f623f9456c0da0e58ceaef32c4f08a779a68bbc",
+        "metrics": {
+          "characters": 1384,
+          "words": 202,
+          "punctuation_groups": 6,
+          "question_marks": 0,
+          "semicolons": 0,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "h3[17]",
+        "sha256_normalized_utf8": "140594d6a36476fbe90e49b26599c4cd442c60187a99f831f488b020cbe0ea10",
+        "metrics": {
+          "characters": 762,
+          "words": 113,
+          "punctuation_groups": 5,
+          "question_marks": 0,
+          "semicolons": 2,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "h3[18]",
+        "sha256_normalized_utf8": "2e53378c47256cc613252cbdec2bce282fc2d62545ffed4d7a1863623a227df7",
+        "metrics": {
+          "characters": 471,
+          "words": 67,
+          "punctuation_groups": 1,
+          "question_marks": 0,
+          "semicolons": 0,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "h3[19]",
+        "sha256_normalized_utf8": "11e692909fb03306ecaa716d1d302aaf04c185f8a8aae863d40d805fc47f4dab",
+        "metrics": {
+          "characters": 1266,
+          "words": 186,
+          "punctuation_groups": 5,
+          "question_marks": 0,
+          "semicolons": 0,
+          "colons": 1,
+          "dashes": 0,
+          "first_person_singular": 1
+        }
+      },
+      {
+        "locator": "h3[20]",
+        "sha256_normalized_utf8": "a5fbc59ad12338210fa7af7d9e2976d2a461e90cfeb689471ff8d03c4592726f",
+        "metrics": {
+          "characters": 1413,
+          "words": 203,
+          "punctuation_groups": 5,
+          "question_marks": 0,
+          "semicolons": 1,
+          "colons": 2,
+          "dashes": 1,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "h3[21]",
+        "sha256_normalized_utf8": "7f72a2a34fd61bc12de98dd669b845da8c6df752fe9b0c6dc08b0938c2c17b51",
+        "metrics": {
+          "characters": 447,
+          "words": 67,
+          "punctuation_groups": 2,
+          "question_marks": 0,
+          "semicolons": 2,
+          "colons": 0,
+          "dashes": 1,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "h3[22]",
+        "sha256_normalized_utf8": "4d2c67714e426ed63d00cfb4934fc0515d30657be0ac35c28cbb78441393b2f7",
+        "metrics": {
+          "characters": 278,
+          "words": 43,
+          "punctuation_groups": 3,
+          "question_marks": 2,
+          "semicolons": 0,
+          "colons": 2,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "h3[25]",
+        "sha256_normalized_utf8": "ca2197099e540c5de1f83c064468e26a9c1ad101f108169e4ac1f6627eff795c",
+        "metrics": {
+          "characters": 915,
+          "words": 134,
+          "punctuation_groups": 2,
+          "question_marks": 0,
+          "semicolons": 2,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "h3[26]",
+        "sha256_normalized_utf8": "170d84c79137ba0baaa1ff8cb15ccbf47b33565e543078f7fd61cb42f22fa2b7",
+        "metrics": {
+          "characters": 604,
+          "words": 93,
+          "punctuation_groups": 3,
+          "question_marks": 0,
+          "semicolons": 0,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "h3[28]",
+        "sha256_normalized_utf8": "5ec851f11ef4cf904aa57cadee038bfebde1c7ff623edffe77f7aa38fd96e19a",
+        "metrics": {
+          "characters": 1199,
+          "words": 189,
+          "punctuation_groups": 6,
+          "question_marks": 0,
+          "semicolons": 0,
+          "colons": 1,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "h3[29]",
+        "sha256_normalized_utf8": "be1edf117854ba97547ce652cc70e289bed44239477edcb8fe4cab4a984540a7",
+        "metrics": {
+          "characters": 454,
+          "words": 70,
+          "punctuation_groups": 1,
+          "question_marks": 0,
+          "semicolons": 1,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      },
+      {
+        "locator": "h3[30]",
+        "sha256_normalized_utf8": "bff38c6a850673361b9103fe54cd9e6203f09552014eda2c723f8d0213385a51",
+        "metrics": {
+          "characters": 236,
+          "words": 37,
+          "punctuation_groups": 1,
+          "question_marks": 0,
+          "semicolons": 0,
+          "colons": 0,
+          "dashes": 0,
+          "first_person_singular": 0
+        }
+      }
+    ],
+    "metrics": {
+      "characters": 16362,
+      "words": 2399,
+      "punctuation_groups": 70,
+      "question_marks": 2,
+      "semicolons": 17,
+      "colons": 10,
+      "dashes": 3,
+      "first_person_singular": 1,
+      "characters_per_punctuation_group": 233.74
+    },
+    "source_language": "de",
+    "style_rules": [
+      {
+        "rule": "把抽象问题拆成两个可分答的问题，先宣布处理第一项；下一段只完成相应任务。",
+        "anchor": "§3 h3[22]列两问，[23]回答第一问，[28]以后转向另一问"
+      },
+      {
+        "rule": "先让一个看来无差别的说法成立，再把其中内容/形式、效力/动机的位置拆开；用回指承接，不用每段重新喊口号。",
+        "anchor": "[20]内容相同但道德性待查；[21]定义；[25]回收效力与执行差别"
+      },
+      {
+        "rule": "长句中的条件逐级加严：在什么条件下、对哪类主体成立；句尾给出有限结论。",
+        "anchor": "[23]末尾所有理性者→有限理性者→人类→特定人类的条件阶梯"
+      },
+      {
+        "rule": "用同一动词或关系的主客位置反转推动说明，反转后必须解释为什么方向改变。",
+        "anchor": "[8]欲望由对象规定/对象由意志实现；[15]理论→实践与实践→理论的方向区别"
+      },
+      {
+        "rule": "可用短定义句作为长推导的接点；人物表达的力量来自推导压力，不来自强硬命令。",
+        "anchor": "[7]神学/宗教短定义；[21]服从的形式；[30]两种原因"
+      },
+      {
+        "rule": "读者行动邀请只能服务于可实际完成的反观，不能把所有反对都包装成自相矛盾。",
+        "anchor": "1797第一导论反观法；精确复述是研究者的适用护栏"
+      }
+    ],
+    "anti_patterns": [
+      "不将“可能”“部分”“尚无保证”偷换成“绝无”“全部”“不可能”。",
+      "不把每个回答开头固定成“试作一个判断”。",
+      "不得用施行性矛盾判决替代对象层面的事实核验。",
+      "不把1792早期宗教论语调自动当整个晚期生涯的唯一声音。"
+    ],
+    "metrics_definition": {
+      "characters": "规范化Unicode字符串长度，含空格标点",
+      "words": "Unicode字母词，保留词内撇号",
+      "punctuation_groups": "[.!?]+组数，包括缩写句点，只是句界代理",
+      "first_person_singular": "德语ich或丹麦语jeg精确词形",
+      "other": "分号、冒号、Unicode破折号直接计数；不含普通ASCII连字符",
+      "sample_text": "只保存哈希、定位和计数，不再分发完整原作"
+    },
+    "uncomputed_metrics": [
+      "人工句法平均句长",
+      "类比密度",
+      "确定性语气比例",
+      "作者与译者/时代基线的独特性差异"
+    ],
+    "limitations": [
+      "原语计数不能直接规定中文句长；本轮没有中文盲辨识结果。",
+      "固定局部总体而非全集随机样本；网页层级和段落标记如更动须按哈希复核。",
+      "节首排印字母与部分脚注残余符号会影响少量计数；指标为该规范化电子文本的实际值，不报纸本精确句法统计。"
+    ]
+  },
+  "sources": [
+    {
+      "title": "1792《启示批判尝试》§3",
+      "url": "https://www.tha.de/homes/harsch/germanica/Chronologie/19Jh/Fichte/fic_ve03.html",
+      "actual_reading": "抽样完整h3段20个，另实读5、8、23、24、31–33；20–26形成连续核心论证。前一工具整页输出发生截断，不计全§3通读。",
+      "version": "Augustana版本页fic_ve00.html声明据1792初印，1793第二版变化在脚注。样本排除脚注；未逐页核对初印扫描。"
+    },
+    {
+      "title": "版本说明",
+      "url": "https://www.tha.de/~harsch/germanica/Chronologie/19Jh/Fichte/fic_ve00.html",
+      "actual_reading": "标题、底本说明、目录",
+      "version": "初印Königsberg, Hartung 1792；版本声明已读，所链1793影印未读。"
+    }
+  ],
+  "argument_chains": [
+    {
+      "title": "派生权威不能提供其自身根据",
+      "locator": "§3 h3[20]–[26]",
+      "premise": "文本从实践理性取得神的概念及服从的根据。",
+      "reasoning": "既然承认神的命令有效已预设理性法则，神命令便不能再成为该法则原初效力的证明；但在具体诱惑中，这种表象可以加强贯彻既认义务的动力。",
+      "limit": "原文区分效力与动机，并没有否认宗教生活；1792早期论证不能未经说明与1797、1800全部并同。"
+    },
+    {
+      "title": "内容同一不等于来源同一",
+      "locator": "§3 h3[28]–[33]",
+      "premise": "两个命令内容相同，还没有证明其中一个是另一个的颁布或原因。",
+      "reasoning": "文本拆分内容与形式，再把上帝为道德律原因分为内容之因与在我们心中存在之因；前者被拒为他律，后者需另问证据。",
+      "limit": "不能由共同内容推断同一来源；不能用理论因果范畴随意证明超感性对象。"
+    },
+    {
+      "title": "愿望、要求与实际因果能力",
+      "locator": "§3 h3[8]、[12]、[13]及[17]",
+      "premise": "希望某对象存在本身不足以证明它真实。",
+      "reasoning": "原作把依对象满足的欲望，与不由对象先行赋予规范理由的意志分开；再分内在可由我行动实现的要求和外在不可直接支配的结果。",
+      "limit": "这是作者的早期实践理性论证，不是保证善意一定成功，更不是把他人自由作为可操控自然对象。"
+    },
+    {
+      "title": "精确复述后才使用自反检验",
+      "locator": "研究者防误用规则；依存检查的原作依据：1797第一导论§§5–7与1792启示批判§3[23]–[26]",
+      "premise": "有条件的承认与全面否定不是同一命题。",
+      "reasoning": "先保持原主张的量词、模态与范围；只有该主张实际否认其成立所必需的条件，才可以作自反追问。检验依存方向时，还须区分逻辑根据与实际执行动力。",
+      "limit": "此条是研究者的防误用规则，不伪装成原作逐字法则。"
+    }
+  ],
+  "model_audit": [
+    {
+      "program": "判断内容与活动条件",
+      "primary_domains": [
+        "1794形式判断",
+        "1796法权召唤与自由行动者"
+      ],
+      "cross_domain": "保持前轮有限双领域依据",
+      "independent_task": "反观判断/行动的成立条件",
+      "generativity": "未进行独立新题行为测试",
+      "discrimination": "未进行新一轮邻近作者盲辨识"
+    },
+    {
+      "program": "显明起点与解释承诺",
+      "primary_domains": [
+        "1797第一导论的经验解释与体系起点",
+        "1792启示批判§3[23]–[26]宗教权威依赖理性法则"
+      ],
+      "cross_domain": "新增宗教规范领域的依存审计，不只重复认识论；跨期差异必须记录",
+      "independent_task": "追踪借来的前提能否作为新根据，且区分效力与动机",
+      "generativity": "未进行独立新题行为测试",
+      "discrimination": "未进行新一轮邻近作者盲辨识"
+    },
+    {
+      "program": "义务与成功",
+      "primary_domains": [
+        "1800人的使命III",
+        "1792宗教论内在义务与外在结果"
+      ],
+      "cross_domain": "跨作品但仍以伦理实践为核心，不能仅按两书算两个领域",
+      "independent_task": "区分规范要求与结果控制",
+      "generativity": "未进行独立新题行为测试",
+      "discrimination": "未进行新一轮邻近作者盲辨识"
+    }
+  ],
+  "remaining_gaps": [
+    "§3版本页有1792/1793说明，未完成初印影像逐字核对。",
+    "自然法权§4以及伦理学1798完整相关章仍未读。",
+    "模型3仍缺独立第二领域；新表达规则尚未经过新题盲辨识。"
+  ],
+  "date": "2026-10-13",
+  "mode_policy": {
+    "default": "中性思想分析不变",
+    "optional_voice": "仅明确选择人物表达时加载",
+    "textgame": "不自动加载表达层"
+  },
+  "role": "限定原作证据与表达样本；不是作者全部思想或已验证普遍模型"
+}
